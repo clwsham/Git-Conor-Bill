@@ -15,6 +15,8 @@ Practice git
 
 Conor
 
+To avoid conflicts we write under our names
+
 Bill
 
 
