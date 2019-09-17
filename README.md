@@ -13,7 +13,15 @@ This is a paragraph of text.
 -it's just some extra characters
 -these get turned into formatting later on
 
+Nice Work
+Let's avoid conflicts
 
 
 >>>>>>> 8a8a8c8568d063c5d95b99bdccfc4e987e03abc7
 Practice git
+
+Conor
+
+Bill
+
+
