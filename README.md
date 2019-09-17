@@ -7,6 +7,14 @@ This is a paragraph of text.
 -it's just some extra characters
 -these get turned into formatting later on
 
+Nice Work
+Let's avoid conflicts
 
 
 Practice git
+
+Conor
+
+Bill
+
+
